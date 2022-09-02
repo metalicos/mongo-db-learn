@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://${USERNAME}:${PASSWORD}@cluster0.ambii5c.mongodb.net/test
+      username: ${USERNAME}
+      password: ${PASSWORD}
